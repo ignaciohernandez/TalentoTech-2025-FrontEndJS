@@ -2,14 +2,13 @@
 
 # EcoBikes - Tienda de Bicicletas
 
-Sitio web estático desarrollado con HTML5, CSS3 y JavaScript.
+Sitio web estático desarrollado con HTML5, CSS3.
 
 ## Características
 
 - Catálogo de bicicletas
 - Video institucional
 - Formulario de contacto
-- Interactividad básica con JS
 - Diseño responsive
 
 ## Autor
